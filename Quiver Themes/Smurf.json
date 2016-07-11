@@ -230,8 +230,8 @@
 "backgroundColor":"#FFF"
 },
 "editor":{
-"codeCellTheme":"SolarizedDark",
-"markdownCellTheme":"SolarizedDark"
+"codeCellTheme":"solarized_dark",
+"markdownCellTheme":"solarized_dark"
 },
 "css":{
 "className":"dark",

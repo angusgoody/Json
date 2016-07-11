@@ -230,8 +230,8 @@
 		"backgroundColor": "#FFF"
 	},
 	"editor": {
-		"codeCellTheme": "Solarized Dark",
-		"markdownCellTheme": "Solarized Dark"
+		"codeCellTheme": "solarized_dark",
+		"markdownCellTheme": "solarized_dark"
 	},
 	"css": {
 		"className": "dark",
